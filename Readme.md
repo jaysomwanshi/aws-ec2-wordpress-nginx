@@ -19,7 +19,7 @@ Set up a secure and fast WordPress site using AWS EC2, Nginx, PHP, and MariaDB.
 - Verified PHP and WordPress setup
 
 ## 📸 Screenshots
-![EC2 Running](Screenshot 2025-07-27 015755.png)
+![EC2 Running](img/step1-ec2-instance-running.png)
 ![Nginx Active](img/step2-nginx-status.png)
 ![WordPress Welcome](img/step3-wordpress-screen.png)
 
