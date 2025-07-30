@@ -1,4 +1,6 @@
 sudo su
+apt update
+apt upgrade
 apt install nginx mariadb-server php zip curl
 sudo mysql_secure_installation
 sudo mysql -u root -p
